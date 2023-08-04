@@ -19,11 +19,10 @@
             "id": "2a24866cbe51b17f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "000.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +130,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "d6f8258f6c9bae8c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe2683d31da41c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,8 +168,8 @@
   },
   "active": "2a24866cbe51b17f",
   "lastOpenFiles": [
-    "PKM MOC.md",
     "000.md",
+    "PKM MOC.md",
     "Obsidian University.md",
     "Obsidian Git.md"
   ]
