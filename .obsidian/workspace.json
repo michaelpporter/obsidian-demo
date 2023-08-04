@@ -11,11 +11,10 @@
             "id": "42ed10f250c1afe3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "000.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian University.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,9 +159,9 @@
   },
   "active": "42ed10f250c1afe3",
   "lastOpenFiles": [
+    "Obsidian University.md",
     "000.md",
     "PKM MOC.md",
-    "Obsidian University.md",
     "Obsidian Git.md"
   ]
 }
