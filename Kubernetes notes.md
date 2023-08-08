@@ -1,0 +1,4 @@
+---
+fileClass: kubernetes
+object: pod
+---
