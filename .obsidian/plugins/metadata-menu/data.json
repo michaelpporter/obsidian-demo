@@ -1,5 +1,37 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "name": "status",
+      "options": {
+        "valuesList": {
+          "1": "none",
+          "2": "backlog",
+          "3": "draft",
+          "4": "final"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "1",
+      "type": "Select"
+    },
+    {
+      "name": "type",
+      "options": {
+        "valuesList": {
+          "1": "note",
+          "2": "card",
+          "3": "map"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "2",
+      "type": "Select"
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],

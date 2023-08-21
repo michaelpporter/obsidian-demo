@@ -32,15 +32,107 @@
             }
           },
           {
-            "id": "30c068df7eb58e24",
+            "id": "0b3e2bec351f446d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28fd8b88e9a3b221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3482f9e9527de635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09739dd8caabb031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcbcc369c8633040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00279489a964e04c",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__base",
+              "state": {}
+            }
+          },
+          {
+            "id": "306c3d16be6c9c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00c8a71acbd02df5",
             "type": "leaf",
             "state": {
               "type": "FileClassView__kubernetes",
               "state": {}
             }
+          },
+          {
+            "id": "279d86119c0fb751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -106,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes notes.md",
+                "file": "Classes/base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes notes.md",
+                "file": "Classes/base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes notes.md"
+                "file": "Classes/base.md"
               }
             }
           },
@@ -183,14 +275,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30c068df7eb58e24",
+  "active": "279d86119c0fb751",
   "lastOpenFiles": [
     "Classes/kubernetes.md",
+    "Classes/base.md",
     "Kubernetes notes.md",
+    "Obsidian Git.md",
     "Obsidian University.md",
     "Classes",
     "000.md",
-    "PKM MOC.md",
-    "Obsidian Git.md"
+    "PKM MOC.md"
   ]
 }
